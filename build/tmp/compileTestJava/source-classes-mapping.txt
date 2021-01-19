@@ -1,0 +1,4 @@
+org/ssoft/trial/pitest/test/HelloWorldTest.java
+ org.ssoft.trial.pitest.test.HelloWorldTest
+org/ssoft/trial/pitest/test/AllTests.java
+ org.ssoft.trial.pitest.test.AllTests

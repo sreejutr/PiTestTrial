@@ -1,0 +1,2 @@
+org/ssoft/trial/pitest/HelloWorld.java
+ org.ssoft.trial.pitest.HelloWorld
